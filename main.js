@@ -1,3 +1,5 @@
+import {propiedades} from "./dataBase.js";
+
 // spanish_cities = [
 //     "Madrid",
 //     "Barcelona",
